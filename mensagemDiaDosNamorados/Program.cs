@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         
-        Console.WriteLine("Digite um nome:");
+        Console.WriteLine("Digite o nome da pessoa amada:");
         string nome = Console.ReadLine();
         Console.Clear();
         string mensagem = GerarMensagemDiaDosNamorados(nome);
