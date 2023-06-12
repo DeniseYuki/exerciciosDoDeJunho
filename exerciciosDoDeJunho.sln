@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividadeLista", "atividade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mensagemDiaDosNamorados", "mensagemDiaDosNamorados\mensagemDiaDosNamorados.csproj", "{6FDD47B9-37AC-4938-97E3-01123CB16054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaNumericaEmOrdem", "listaNumericaEmOrdem\listaNumericaEmOrdem.csproj", "{CC56A2FC-1B10-4FE5-8183-355414E0BC40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6FDD47B9-37AC-4938-97E3-01123CB16054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FDD47B9-37AC-4938-97E3-01123CB16054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FDD47B9-37AC-4938-97E3-01123CB16054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC56A2FC-1B10-4FE5-8183-355414E0BC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC56A2FC-1B10-4FE5-8183-355414E0BC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC56A2FC-1B10-4FE5-8183-355414E0BC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC56A2FC-1B10-4FE5-8183-355414E0BC40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
