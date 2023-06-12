@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// lista definida, acrescentar, remover, classificar e achar valor maximo e minimo
+
 class Program {
 
     static void Main()

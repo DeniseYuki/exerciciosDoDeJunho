@@ -3,6 +3,9 @@
 using System;
 using System.Collections.Generic;
 
+
+// lista não definida, adicionar e remover itens
+
 class Program
 {
     static void Main()

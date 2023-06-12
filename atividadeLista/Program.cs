@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// lista definida colocar em ordem
+
 class Program
 {
     static void Main()

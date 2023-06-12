@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Lista definida maior e menor valor
+
 class Program
 {
     static void Main()
