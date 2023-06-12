@@ -17,20 +17,17 @@ class Program
 
         string mensagem = $"Olá {nome}! Feliz Dia dos Namorados!Te amo muito!❤";
         
-
         Console.WriteLine("\n      ***        ***     ");
         Console.WriteLine("    **    **    **   **   ");
         Console.WriteLine("   **       ****      **   ");
         Console.WriteLine("   **        **       **   ");
-        Console.WriteLine("   **         *       **   ");
+        Console.WriteLine("   **        *       **   ");
         Console.WriteLine("    **               **   ");
         Console.WriteLine("      **            **   ");
         Console.WriteLine("        **        **     ");
         Console.WriteLine("          **    **       ");
-        Console.WriteLine("             **         \n");
-
-        return mensagem;
-
-        
+        Console.WriteLine("             **         ");
+        Console.WriteLine("             *          \n");
+        return mensagem;    
     }
 }
